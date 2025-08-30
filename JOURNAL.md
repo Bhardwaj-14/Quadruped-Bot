@@ -16,3 +16,12 @@ Created On: "30/8/2025"
 
 
 **Total time spent: 1.5h**
+
+
+#August 30th: midnight(cuz I can't sleep!). DESIGNING THE CAD:
+
+* Aright the most boring part, CAD. It's boring yet important, having a structure is important.
+* Need a mechanical brain to use 1 servo per leg with linkages and at the same time make it walk like a horse(dog actually crawl and trot is for dogs...)
+* 12:30 🕧 AM, starting with the work...
+
+**Total time spent: h**
