@@ -38,6 +38,8 @@ Created On: "30/8/2025"
 * Finally after a long long time witha  lot of difficulty the mighty chasis was over!!!
 
 <img width="258" height="355" alt="Leg mechanism" src="https://github.com/user-attachments/assets/5e09d89f-75de-4c36-9da8-31f696699bee" />
+<img width="370" height="502" alt="random 1" src="https://github.com/user-attachments/assets/9d5f02e4-c48e-4d89-a043-67412982140e" />
+<img width="571" height="502" alt="random" src="https://github.com/user-attachments/assets/6c8b34fe-a1c0-41d0-811a-96e29d5ae16e" />
 
 
 **Total time spent: 4h around 20 minutes**
