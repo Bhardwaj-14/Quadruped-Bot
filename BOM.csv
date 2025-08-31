@@ -1,13 +1,12 @@
-S.No,Item,Notes,Quantity,Links,Price in INR
-1,servo,MG996R pack of 4(1 servo costs 406.75 INR),2(7 in inventory + 1 from amazon), https://tinyurl.com/black-servo, 3254
-2,PCA9685,16 channel I2C for servo driver, 1, https://tinyurl.com/PCA9685-servo-driver, 474(custom grant)
-3, joystick, for manual movement comms with Bot, 1, https://tinyurl.com/joystick-robo, 80(INVENTORY)
-4, light-bar, for showing battery percentage, 1, https://tinyurl.com/bargraph-light, 70(INVENTORY)
-5, 22 guage wire, for connectivity, 1, https://www.amazon.in/gp/product/B07VMNGXF5/ref=ewc_pr_img_1?smid=AJ6SIZC8YQDZX&psc=1, 129(INVENTORY)
-6, breadboard, for prototyping, 1, https://tinyurl.com/breadboard-white, 200(INVENTORY)
-7, RP-Pico-W, the brain of the bot, 1, https://tinyurl.com/rpi-pico-w, 2200(INVENTORY)
+S.No,Item,Notes,Quantity,Links,Price (INR)
+1,MG996R Servo Pack of 4,1 servo costs 406.75 INR,2 (7 in inventory + 1 from Amazon),https://tinyurl.com/black-servo,3254
+2,PCA9685,16 channel I2C servo driver,1,https://tinyurl.com/PCA9685-servo-driver,474 (Custom grant)
+3,Joystick,For manual movement comms with bot,1,https://tinyurl.com/joystick-robo,80 (INVENTORY)
+4,Light-Bar,For showing battery percentage,1,https://tinyurl.com/bargraph-light,70 (INVENTORY)
+5,22 Gauge Wire,For connectivity,1,https://www.amazon.in/gp/product/B07VMNGXF5/ref=ewc_pr_img_1?smid=AJ6SIZC8YQDZX&psc=1,129 (INVENTORY)
+6,Breadboard,For prototyping,1,https://tinyurl.com/breadboard-white,200 (INVENTORY)
+7,RP-Pico-W,The brain of the bot,1,https://tinyurl.com/rpi-pico-w,2200 (INVENTORY)
 
-
-# Grants used
-Grant,price
-Custom hardware grant($50), 880.75INR ($9.99)
+# Grants Used
+Grant,Price (INR)
+Custom Hardware Grant ($50),880.75($9.99)
