@@ -23,6 +23,12 @@ Created On: "30/8/2025"
 * Aright the most boring part, CAD. It's boring yet important, having a structure is important.
 * Need a mechanical brain to use 1 servo per leg with linkages and at the same time make it walk like a horse(dog actually crawl and trot is for dogs...)
 * 12:30 🕧 AM, starting with the work...
-* Okay I slept, I was thinking using 4 servos won't do it, like most of the movement wouldn't be possible so as the inventory has 7 servos, I'm gonna buy another one using the custom hardware grant. So now I have 8 servos, 2 per leg!
+* Okay I slept, I was thinking using 4 servos won't do it, like most of the movement wouldn't be possible so as the inventory has 7 servos, I'm gonna buy another one using the custom hardware grant. So now I would have 8 servos, 2 per leg.
+
+**Total time spent: 2h**
+
+# August 31st: research and finally making the CAD
+
+* 
 
 **Total time spent: h**
