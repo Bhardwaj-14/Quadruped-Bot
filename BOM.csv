@@ -1,2 +1,4 @@
 S.No,Item,Notes,Quantity,Links,Price in INR
 1,servo,MG996R pack of 4(1 servo costs 406.75 INR),2(7 in inventory + 1 from amazon), https://tinyurl.com/black-servo, 3254
+2,PCA9685,16 channel I2C for servo driver, 1, https://tinyurl.com/PCA9685-servo-driver, 474(custom grant)
+3, joystick, for manual movement comms with Bot, 1, https://tinyurl.com/joystick-robo, 80(INVENTORY)
