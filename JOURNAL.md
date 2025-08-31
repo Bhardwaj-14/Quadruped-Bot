@@ -43,3 +43,7 @@ Created On: "30/8/2025"
 
 
 **Total time spent: 4h around 20 minutes**
+
+# August 31st: Its 4:45 PM I want to do this fast! Time for preparing the BOM
+
+**Total time spent: 10minutes**
