@@ -63,6 +63,9 @@ Created On: "30/8/2025"
 
 * The BOM is ready, the circuit is done, time for the code.
 * I wanna have a simple code at first and keep upgraing it time to time, for now I just need a controllable bot.
+<img width="559" height="381" alt="Screenshot 2025-09-02 at 5 11 06 PM" src="https://github.com/user-attachments/assets/5fa8c506-f0ff-40af-a941-25a9672cff00" />
+
+
 
 **Total time spent: 2 hours(approx didnt track maybe around 1 hour 45 minutes)**
 
