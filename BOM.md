@@ -18,4 +18,4 @@
 
 | Grant                     | Price (INR)       |
 |----------------------------|-----------------|
-| Custom Hardware Grant ($50) | 880.75 INR ($9.99) |
+| Custom Hardware Grant ($50) | 1409.75 INR ($16.01) |
