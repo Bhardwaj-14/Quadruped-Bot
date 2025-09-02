@@ -46,4 +46,23 @@ Created On: "30/8/2025"
 
 # August 31st: Its 4:45 PM I want to do this fast! Time for preparing the BOM
 
+*The BOM is ready...
+
 **Total time spent: 10minutes**
+
+# September 1st: Today I'll make the Circuit design
+
+* I have plenty of experience in this so hopefully my work should get done in 45 minutes.
+
+  <img width="906" height="461" alt="circuit" src="https://github.com/user-attachments/assets/0973379e-664a-45b5-85b8-88406bb22e69" />
+
+
+**Total time spent: 50 minutes**
+
+# September 2nd: CODE! Hope this is the last day
+
+* The BOM is ready, the circuit is done, time for the code.
+* I wanna have a simple code at first and keep upgraing it time to time, for now I just need a controllable bot.
+
+**Total time spent: 2 hours(approx didnt track maybe around 1 hour 45 minutes)**
+
