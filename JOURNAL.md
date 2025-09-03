@@ -40,6 +40,9 @@ Created On: "30/8/2025"
 <img width="258" height="355" alt="Leg mechanism" src="https://github.com/user-attachments/assets/5e09d89f-75de-4c36-9da8-31f696699bee" />
 <img width="370" height="502" alt="random 1" src="https://github.com/user-attachments/assets/9d5f02e4-c48e-4d89-a043-67412982140e" />
 <img width="571" height="502" alt="random" src="https://github.com/user-attachments/assets/6c8b34fe-a1c0-41d0-811a-96e29d5ae16e" />
+These are drawings which I did using a graphic tablet. Basically a sketch of every side so its easy to make the CAD.
+<img width="593" height="887" alt="drawing" src="https://github.com/user-attachments/assets/d8956b0e-e922-4e0f-b2d8-0be0cef243cb" />
+<img width="1507" height="713" alt="side-drawing" src="https://github.com/user-attachments/assets/039f895f-d46e-477d-8250-be66b222c7be" />
 
 
 **Total time spent: 4h around 20 minutes**
@@ -47,6 +50,7 @@ Created On: "30/8/2025"
 # August 31st: Its 4:45 PM I want to do this fast! Time for preparing the BOM
 
 *The BOM is ready...
+
 
 **Total time spent: 10minutes**
 
