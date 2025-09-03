@@ -24,4 +24,4 @@
 
 
 
-# Total BOM: 
+# Total BOM: INR 8603.75
