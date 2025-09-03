@@ -50,7 +50,7 @@ These are drawings which I did using a graphic tablet. Basically a sketch of eve
 # August 31st: Its 4:45 PM I want to do this fast! Time for preparing the BOM
 
 *The BOM is ready...
-
+<img width="862" height="589" alt="BOM ss" src="https://github.com/user-attachments/assets/9592109d-e44b-4041-a346-60946f15f366" />
 
 **Total time spent: 10minutes**
 
